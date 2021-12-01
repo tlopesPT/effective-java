@@ -1,4 +1,4 @@
-package pt.tlopes.effective.java.chapter.chapter1;
+package pt.tlopes.effective.java.chapter.chapter2;
 
 import java.util.Arrays;
 import java.util.EmptyStackException;

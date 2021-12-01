@@ -1,4 +1,4 @@
-package pt.tlopes.effective.java.chapter.chapter1;
+package pt.tlopes.effective.java.chapter.chapter2;
 
 public class Item1StaticFactoryMethod {
 

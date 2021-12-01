@@ -1,4 +1,4 @@
-package pt.tlopes.effective.java.chapter.chapter1;
+package pt.tlopes.effective.java.chapter.chapter2;
 
 // Noninstantiable utility class
 public class Item4Noninstantiability {
